@@ -11,15 +11,15 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Cursinho Ferradura</title>
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
-	<meta name="description" content="Free HTML5 Template by FreeHTML5.co" />
+	<meta name="description" content="Site do Cursinho Ferradura - UNESP de Bauru" />
 	<meta name="keywords" content="Cursinho Ferradura, FC Unesp Bauru, Cursinho Unesp, Pré-Vestibular Unesp Bauru" />
 
   	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
+	<meta property="og:title" content="Site do Cursinho Ferradura - UNESP de Bauru"/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
+	<meta property="og:site_name" content="Site do Cursinho Ferradura - UNESP de Bauru"/>
+	<meta property="og:description" content="Site do Cursinho Ferradura - UNESP de Bauru"/>
 	<meta name="twitter:title" content="" />
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
