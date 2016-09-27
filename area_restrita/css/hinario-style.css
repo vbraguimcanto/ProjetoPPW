@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+}
+
+
+#conteudo{
+	width: 1000px;
+	height: auto;
+	margin: 20px auto;
+}
+#logo{
+	width: auto;
+	height: auto;
+	float: left;
+}
+#menu-hinos{
+	width: 400px;
+	height: 600px;
+	float: left;
+	border-radius: 30px;
+}

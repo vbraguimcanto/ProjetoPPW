@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+}
+#topo{
+	width: 500px;
+	height: 400px;	
+	margin: 0 auto;
+	text-align: center;
+}
+.centerLogin{
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    border-radius:3px;
+    background-color: #FFF;
+}
+
+.logoLogin{
+    background-color: #eee;
+    border-bottom: 3px solid #111;
+}
+
+.logoLogin img{
+    margin: 10px;
+    border:none;
+}
+
+.formularioLogin{
+    width:450px;
+    min-height: 35px;
+    border:1px solid #004000;
+    margin: 10px auto;
+}
+
+.formularioLogin img{
+    width:30px;
+    height:30px;
+    margin:5px;
+    vertical-align: middle;
+}
+
+.formularioLogin input{
+    outline: none;
+    border:none;
+    width:390px;
+    padding:5px;
+    font-family: verdana;
+    font-size: 18px;
+}
+
+.btnSubmitLogin{
+    width:100px;
+    padding:5px;
+    font-family: verdana;
+    font-size: 18px;
+    background-color: #00A88F;
+    border:none;
+    margin:10px;
+    margin-left: 25px;
+    color:#FFF;
+    cursor: pointer;
+    outline:none;
+}
+
+.btnSubmitLogin:hover{
+    color: #eaab00;
+}
+
+.btnLogin{
+	float: right;
+	padding-right: 15px;
+}
+.cadastrar{
+	float: left;
+	padding-left: 25px;
+	padding-top: 15px;
+}
